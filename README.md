@@ -50,3 +50,36 @@ git clone https://github.com/Prathamporwal/Diet-Dash.git
 ```bash
 & D:/dietdash/Diet-Dash-main/MainInterface-Backend/venv/Scripts/Activate.ps1
 ```
+
+### 3️⃣ Configure Database
+
+Edit settings.py in maininterfacebackend/ to match your MySQL setup.
+
+### 4️⃣ Apply Migrations
+
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+
+### 5️⃣ Run the Server
+
+```bash
+python manage.py runserver
+```
+
+---
+
+## 🙌 Contributions
+
+Want to enhance Diet Dash? Fork the repo, create a branch, and submit a pull request.
+
+This project was collaboratively developed by Pratham Porwal and [@Pratham-punjabi](https://github.com/pratham-punjabi).
+
+---
+
+## 📬 Contact
+
+-**Developer**: *Pratham Porwal*
+-📧 **Email**: *prathamporwal2@gmail.com*
+-🔗 **LinkedIn**: www.linkedin.com/in/pratham-porwal-2682872bb

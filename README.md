@@ -34,4 +34,19 @@ Diet-Dash-main/
 │   ├── venv/                    # Virtual environment
 │── manage.py                    # Django management script
 │── myenv/                       # Another virtual environment (local only)
+```
+---
 
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Prathamporwal/Diet-Dash.git
+```
+
+### 2️⃣ Activate Virtual Environment
+
+```bash
+& D:/dietdash/Diet-Dash-main/MainInterface-Backend/venv/Scripts/Activate.ps1
+```

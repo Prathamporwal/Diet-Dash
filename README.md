@@ -81,5 +81,7 @@ This project was collaboratively developed by Pratham Porwal and [@Pratham-punja
 ## 📬 Contact
 
 -**Developer**: *Pratham Porwal*
+
 -📧 **Email**: *prathamporwal2@gmail.com*
+
 -🔗 **LinkedIn**: www.linkedin.com/in/pratham-porwal-2682872bb
